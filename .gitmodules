@@ -1,0 +1,3 @@
+[submodule "makusomosreyes"]
+	path = makusomosreyes
+	url = git@github.com:moisessantiago/makusomosreyes.git
