@@ -1,3 +1,6 @@
 [submodule "makusomosreyes"]
 	path = makusomosreyes
 	url = git@github.com:moisessantiago/makusomosreyes.git
+[submodule "somosreyes_dev"]
+	path = somosreyes_dev
+	url = git@github.com:moisessantiago/somosreyes_dev.git
