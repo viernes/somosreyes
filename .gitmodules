@@ -4,3 +4,6 @@
 [submodule "somosreyes_dev"]
 	path = somosreyes_dev
 	url = git@github.com:moisessantiago/somosreyes_dev.git
+[submodule "security_users"]
+	path = security_users
+	url = git@github.com:viernes/security_users.git
