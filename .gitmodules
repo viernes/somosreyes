@@ -7,3 +7,8 @@
 [submodule "security_users"]
 	path = security_users
 	url = git@github.com:viernes/security_users.git
+
+[submodule "xmarts/replace_button_stock_barcode"]
+	path = xmarts/replace_button_stock_barcode
+	url = git@github.com:xmarts/replace_button_stock_barcode.git
+	branch = master
